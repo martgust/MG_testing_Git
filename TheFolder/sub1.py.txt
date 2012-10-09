@@ -1,0 +1,1 @@
+%A plugin file in a separate directory.
